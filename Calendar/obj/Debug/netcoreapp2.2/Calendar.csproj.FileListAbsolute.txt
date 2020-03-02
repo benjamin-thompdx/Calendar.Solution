@@ -1,0 +1,9 @@
+/Users/Bthom/Desktop/Calendar.Solution/Calendar/bin/Debug/netcoreapp2.2/Calendar.deps.json
+/Users/Bthom/Desktop/Calendar.Solution/Calendar/bin/Debug/netcoreapp2.2/Calendar.dll
+/Users/Bthom/Desktop/Calendar.Solution/Calendar/bin/Debug/netcoreapp2.2/Calendar.pdb
+/Users/Bthom/Desktop/Calendar.Solution/Calendar/obj/Debug/netcoreapp2.2/Calendar.csprojAssemblyReference.cache
+/Users/Bthom/Desktop/Calendar.Solution/Calendar/obj/Debug/netcoreapp2.2/Calendar.csproj.CoreCompileInputs.cache
+/Users/Bthom/Desktop/Calendar.Solution/Calendar/obj/Debug/netcoreapp2.2/Calendar.AssemblyInfoInputs.cache
+/Users/Bthom/Desktop/Calendar.Solution/Calendar/obj/Debug/netcoreapp2.2/Calendar.AssemblyInfo.cs
+/Users/Bthom/Desktop/Calendar.Solution/Calendar/obj/Debug/netcoreapp2.2/Calendar.dll
+/Users/Bthom/Desktop/Calendar.Solution/Calendar/obj/Debug/netcoreapp2.2/Calendar.pdb

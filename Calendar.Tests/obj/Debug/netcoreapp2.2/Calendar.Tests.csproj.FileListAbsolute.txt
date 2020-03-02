@@ -1,0 +1,17 @@
+/Users/Bthom/Desktop/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp2.2/Calendar.Tests.csprojAssemblyReference.cache
+/Users/Bthom/Desktop/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp2.2/Calendar.Tests.csproj.CoreCompileInputs.cache
+/Users/Bthom/Desktop/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp2.2/Calendar.Tests.AssemblyInfoInputs.cache
+/Users/Bthom/Desktop/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp2.2/Calendar.Tests.AssemblyInfo.cs
+/Users/Bthom/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Bthom/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Bthom/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Bthom/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp2.2/Calendar.Tests.deps.json
+/Users/Bthom/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp2.2/Calendar.Tests.runtimeconfig.json
+/Users/Bthom/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp2.2/Calendar.Tests.runtimeconfig.dev.json
+/Users/Bthom/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp2.2/Calendar.Tests.dll
+/Users/Bthom/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp2.2/Calendar.Tests.pdb
+/Users/Bthom/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp2.2/Calendar.dll
+/Users/Bthom/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp2.2/Calendar.pdb
+/Users/Bthom/Desktop/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp2.2/Calendar.Tests.csproj.CopyComplete
+/Users/Bthom/Desktop/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp2.2/Calendar.Tests.dll
+/Users/Bthom/Desktop/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp2.2/Calendar.Tests.pdb
